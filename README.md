@@ -30,7 +30,7 @@ I explore and experiment with different technologies to improve my skills and bu
 
 ## 📈 GitHub Stats  
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=max4748&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=max4748&show_icons=true&theme=dark)
 
 ---
 
