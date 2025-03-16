@@ -35,4 +35,4 @@ I explore and experiment with different technologies to improve my skills and bu
 ---
 
 > "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."  
-> ― *Martin Fowler*
+> **Martin Fowler**
